@@ -1,0 +1,7 @@
+{
+  "name": "Baal_2022",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
